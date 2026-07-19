@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baaelithgames.github.io/sitemap.xml
